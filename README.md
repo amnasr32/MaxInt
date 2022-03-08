@@ -1,5 +1,4 @@
-*NOM,prénom,numéro d'étudiant*
-### NASR Amira 
+
 **Le protocole fonctionnera de la façon suivante :(voir le pdf pour plus de détails)
 – le serveur accepte plusieurs connexions TCP de clients en parallèle ;
 – lorsqu’un client se connecte au serveur, il peut envoyer au serveur un entier positif ou lui
